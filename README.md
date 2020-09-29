@@ -47,6 +47,8 @@ Play the game, Pong, against a computer controlled player!  Scores are recorded 
 
 The computer will seek to chase down the ball when the ball is coming toward the computer goal.  The computer has a random chance to pursue the ball or remain idle at any given moment; this was implemented to allow for a difficulty option when playing against the computer.  After the computer defends its goal, it will return to the middle position.
 
+![](images/Pong_Game.png)
+
 # [Project 9: Hangman Game](https://github.com/foleydavid/hangmanGame)
 This game searches through a long text file of random movie titles and selects a secret word.  A user selects letters to guess compose the word, until the word has been discovered or until the remaining strikes descends to zero.
 
