@@ -42,3 +42,9 @@ Convert a non-negative integer to its english words representation. Given input 
 Play the game, Pong, against a computer controlled player!  Scores are recorded in the top corner until a winner has been decided.  The background screen will tint with the color of the corresponding player who is currently in the lead.
 
 The computer will seek to chase down the ball when the ball is coming toward the computer goal.  The computer has a random chance to pursue the ball or remain idle at any given moment; this was implemented to allow for a difficulty option when playing against the computer.  After the computer defends its goal, it will return to the middle position.
+
+# [Project 9: Hangman Game](https://github.com/foleydavid/hangmanGame)
+This game searches through a long text file of random movie titles and selects a secret word.  A user selects letters to guess compose the word, until the word has been discovered or until the remaining strikes descends to zero.
+
+The user will be shown the letters that have already been selected in alphabetical order, and the user will be instructed to chose again if they accidentally select the same letter twice (this will not count as a strike).  The user may also guess the entire word at any point during the game.
+
