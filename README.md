@@ -43,7 +43,10 @@ Only numbers 1 through 9 are used. Each number is used at most once. Return a li
 # [Project 6: String Calculator with Parentheses](https://github.com/foleydavid/BasicStringCalculator)
 Implement a basic calculator to evaluate a simple expression string.
 
-The expression string may contain open ( and closing parentheses ), the plus + or minus sign -, non-negative integers and empty spaces .
+The expression string may contain open ( and closing parentheses ), the plus + or minus sign -, non-negative integers and empty spaces.
+Solve each section within open and closing parentheses first.
+
+![](images/String_Calculator.png)
 
 # [Project 7: Integer to Words](https://github.com/foleydavid/IntegerToWords)
 Convert a non-negative integer to its english words representation. Given input is guaranteed to be less than pow(2, 31) - 1.
