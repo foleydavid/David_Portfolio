@@ -48,3 +48,9 @@ This game searches through a long text file of random movie titles and selects a
 
 The user will be shown the letters that have already been selected in alphabetical order, and the user will be instructed to chose again if they accidentally select the same letter twice (this will not count as a strike).  The user may also guess the entire word at any point during the game.
 
+# [Project 10: Longest Prefix - Suffix](https://github.com/foleydavid/longestPrefix-Suffix)
+A string is called a prefix-suffix if is a non-empty prefix which is also a suffix (excluding itself).
+
+Given a string s. Return the longest happy prefix of s.
+
+Return an empty string if no such prefix exists.
