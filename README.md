@@ -4,7 +4,7 @@ Software developer portfolio
 # [Project 1: Asteroid Hunter](https://github.com/foleydavid/AsteroidHunter)
 Play as a galatic traveler traversing through outer space.  A host of asteroids fly towards you!  You must dodge asteroids and fill up your ammunition to destroy the asteroids with lasers until all asteroids are destroyed, but be careful as the asteroids will speed up the longer they are left unattended!
 
-![](/images/Asteroid%20Hunter%20Photo.png)
+![](images/Asteroid%20Hunter%20Photo.png)
 
 # [Project 2: Sudoku Solver](https://github.com/foleydavid/sudokuSolver)
 Solve sudokus using backtracking.  Program will scan board for the next blank space and try a value (1 - 9) before assessing if the digit is allowed.  It will move on until a space cannot be solved with any digit, in which case the program will work backwards to adjust the board.
@@ -56,7 +56,7 @@ This game searches through a long text file of random movie titles and selects a
 
 The user will be shown the letters that have already been selected in alphabetical order, and the user will be instructed to chose again if they accidentally select the same letter twice (this will not count as a strike).  The user may also guess the entire word at any point during the game.
 
-![](/images/Hangman.png)
+![](images/Hangman.png)
 
 # [Project 10: Longest Prefix - Suffix](https://github.com/foleydavid/longestPrefix-Suffix)
 A string is called a prefix-suffix if is a non-empty prefix which is also a suffix (excluding itself).
