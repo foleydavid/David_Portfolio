@@ -29,6 +29,8 @@ If there are infinite solutions for the equation, return "Infinite solutions".
 
 If there is exactly one solution for the equation, we ensure that the value of x is an integer.
 
+![](images/Sudoku.png)
+
 # [Project 5: Combination Sum](https://github.com/foleydavid/combinationSum3)
 Find all valid combinations of k numbers that sum up to n such that the following conditions are true:
 
