@@ -30,5 +30,15 @@ Find all valid combinations of k numbers that sum up to n such that the followin
 
 Only numbers 1 through 9 are used. Each number is used at most once. Return a list of all possible valid combinations. The list must not contain the same combination twice, and the combinations may be returned in any order.
 
+# [Project 6: String Calculator with Parentheses](https://github.com/foleydavid/BasicStringCalculator)
+Implement a basic calculator to evaluate a simple expression string.
 
+The expression string may contain open ( and closing parentheses ), the plus + or minus sign -, non-negative integers and empty spaces .
 
+# [Project 7: Integer to Words](https://github.com/foleydavid/IntegerToWords)
+Convert a non-negative integer to its english words representation. Given input is guaranteed to be less than pow(2, 31) - 1.
+
+# [Project 8: Pong Game](https://github.com/foleydavid/Pong)
+Play the game, Pong, against a computer controlled player!  Scores are recorded in the top corner until a winner has been decided.  The background screen will tint with the color of the corresponding player who is currently in the lead.
+
+The computer will seek to chase down the ball when the ball is coming toward the computer goal.  The computer has a random chance to pursue the ball or remain idle at any given moment; this was implemented to allow for a difficulty option when playing against the computer.  After the computer defends its goal, it will return to the middle position.
