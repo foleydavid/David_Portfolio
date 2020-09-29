@@ -9,6 +9,8 @@ Play as a galatic traveler traversing through outer space.  A host of asteroids 
 # [Project 2: Sudoku Solver](https://github.com/foleydavid/sudokuSolver)
 Solve sudokus using backtracking.  Program will scan board for the next blank space and try a value (1 - 9) before assessing if the digit is allowed.  It will move on until a space cannot be solved with any digit, in which case the program will work backwards to adjust the board.
 
+![](images/Sudoku.png)
+
 # [Project 3: Most Gold](https://github.com/foleydavid/mostGold)
 What is the most gold you can acquire traversing through various paths on a grid, if you cannot turn back and cannot step into a value of zero?
 
@@ -28,8 +30,6 @@ If there is no solution for the equation, return "No solution".
 If there are infinite solutions for the equation, return "Infinite solutions".
 
 If there is exactly one solution for the equation, we ensure that the value of x is an integer.
-
-![](images/Sudoku.png)
 
 # [Project 5: Combination Sum](https://github.com/foleydavid/combinationSum3)
 Find all valid combinations of k numbers that sum up to n such that the following conditions are true:
