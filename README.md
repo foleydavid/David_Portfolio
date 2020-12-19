@@ -2,7 +2,7 @@
 Software developer portfolio
 
 # [Project 1: Sudoku Solver](https://github.com/foleydavid/sudokuSolver)
-Solve sudokus using backtracking.  Program will scan board for the next blank space and try a value (1 - 9) before assessing if the digit is allowed.  It will move on until a space cannot be solved with any digit, in which case the program will work backwards to adjust the board.
+Play and solve sudokus using backtracking.  When playing, have all the options a great Sudoku app should have: enter numbers, enter notes, change your highlight preferences, and even view past high scores for each difficulty.  You may also command the program to re-update its Sudoku database if you should ever wish it.  When solving, program will scan board for the next blank space and try a value (1 - 9) before assessing if the digit is allowed.  It will move on until a space cannot be solved with any digit, in which case the program will work backwards to adjust the board.
 
 ![](images/DR%20Sudoku%20Image.png)
 
